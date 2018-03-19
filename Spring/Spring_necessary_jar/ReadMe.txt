@@ -1,0 +1,1 @@
+使用Spring框架时，需要将本文件夹中的Spring的4个基础包和commons-logging-1.2.jar包复制到项目的Lib目录，并发布到类路径中.
